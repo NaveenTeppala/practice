@@ -6,10 +6,10 @@ if a==1:
 else:
     for i in range(2,a):
         if a%i==0:
-            print("prime number")
+            print("prime")
             flag=True
             break
 if flag:
-    print("not prime number")
+    print("not prime")
 else:
     print(" prime")
