@@ -10,6 +10,6 @@ else:
             flag=True
             break
 if flag:
-    print("not prime")
+    print("not a prime")
 else:
     print(" prime")
