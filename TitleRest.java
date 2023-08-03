@@ -36,7 +36,4 @@ public class TitleRest {
 		return tr.findTitleByType(type);
 		
 	}
-	
-
-	
 }
